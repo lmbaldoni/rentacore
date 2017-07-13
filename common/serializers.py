@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Folder , Table , Column
+from .models import Folder , Table , Column 
 
 class FolderSerializer(serializers.ModelSerializer):
     class Meta:
