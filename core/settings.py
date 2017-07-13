@@ -88,17 +88,27 @@ WSGI_APPLICATION = 'core.wsgi.application'
 #    }
 #}
 
+#DATABASES = {
+#    'default': {
+#        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#        'NAME': 'product',
+#        'USER': 'postgres',
+#        'PASSWORD': 'mexico',
+#        'HOST': 'localhost',
+#        'PORT': '5432',
+#    }
+#}
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'product',
-        'USER': 'postgres',
-        'PASSWORD': 'mexico',
-        'HOST': 'localhost',
+        'NAME': 'des96m9k2kmqhg',
+        'USER': 'gtolhsqdtsvnps',
+        'PASSWORD': 'a6c301d9895a72b1b372062ccfa3aec5837aff1c1a280c9251fde9687e725fc7',
+        'HOST': 'ec2-54-163-252-55.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators
