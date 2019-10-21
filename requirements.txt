@@ -16,7 +16,7 @@ Pygments==2.0.1
 SOAPpy==0.12.22
 SQLAlchemy==1.0.14
 WTForms==2.0.2
-Werkzeug==0.9.6
+Werkzeug==0.15.3
 argparse==1.2.1
 astroid==1.5.3
 backports.functools-lru-cache==1.4
