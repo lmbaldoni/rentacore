@@ -77,7 +77,7 @@ sqlparse==0.1.19
 testtools==2.3.0
 traceback2==1.4.0
 unittest2==1.1.0
-urllib3==1.9.1
+urllib3==1.26.5
 vboxapi==1.0
 wheel==0.24.0
 wrapt==1.10.10
